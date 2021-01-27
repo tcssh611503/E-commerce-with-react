@@ -1,7 +1,9 @@
 
 import './App.css';
-import React, { Component } from 'react'
-import { Switch , Route , Link } from "react-router-dom";
+// import React, { Component } from 'react'
+// import { Switch , Route , Link } from "react-router-dom";
+import React from 'react'
+import { Switch , Route  } from "react-router-dom";
 import HomePage from './pages/homepage/homepage.component';
 import ShopPage from './pages/shop/shop.component';
 

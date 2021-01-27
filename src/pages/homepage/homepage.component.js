@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Directory from '../../component/directory/directory';
 import  './homepage.styles.scss';
 
