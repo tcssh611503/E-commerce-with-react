@@ -16,9 +16,7 @@ import ShopPage from './pages/shop/shop.component';
 //     <div>
 //       <h1>HOME PAGE</h1>
 //     </div>
-
 //   )
-
 
 // }
 
