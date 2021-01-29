@@ -6,6 +6,9 @@ import { ReactComponent as Logo } from '../../assets/crown.svg';
 
 import './header.scss';
 
+//Adding Images, Fonts, and Files
+// https://create-react-app.dev/docs/adding-images-fonts-and-files/
+
 const Header = () => (
     <div className='header'>
        <Link className='logo-container' to="/">
