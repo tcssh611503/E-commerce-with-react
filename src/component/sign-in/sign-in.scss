@@ -1,12 +1,18 @@
   
 .sign-in {
-    width: 30vw;
+    // width: 30vw;
+    width: 380px;
     display: flex;
     flex-direction: column;
 
 
     .title {
         margin: 10px 0;
+    }
+    //兩個按鈕有空格
+    .buttons{
+        display: flex;
+        justify-content: space-between;
     }
 
 
